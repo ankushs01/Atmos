@@ -8,6 +8,10 @@ A modern, glassmorphism weather app with live conditions, air quality, smart ale
 
 ---
 
+## 🚀 Live Demo **Live Preview:** [https://atmos-ankush.vercel.app/](https://atmos-ankush.vercel.app/)
+
+---
+
 ## ✨ Features
 
 - 🌡️ **Live current conditions** — temperature, feels-like, humidity, wind, pressure, visibility, UV index, and precipitation
